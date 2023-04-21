@@ -10,3 +10,7 @@
 - You can find the prefix (first 8 digits of IMEI, ex:86710505) of your model from the QCN files or leaked IMEI's. You can find them on internet.  
 - These produced IMEI's are valid in terms of the calculations of the numbers that compose them with each other.  
 - This project has been prepared for educational purposes, abuse is the responsibility of the user.  
+  
+## For the enthusiast; IMEI structure:
+Source: [Wikipedia](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity)
+![](https://github.com/symbuzzer/vbs-model-specific-imei/blob/main/imei_structure_wikipedia_ss.png?raw=true)
