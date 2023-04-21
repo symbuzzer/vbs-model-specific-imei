@@ -1,2 +1,12 @@
-# vbs-model-specific-imei
-model specific imei generation via visual basic script
+# Model specific IMEI generation via Visual Basic Script  
+  
+## How to use:
+- Download latest "imei.vbs" from [Releases](https://github.com/symbuzzer/vbs-model-specific-imei/releases)  
+- Edit it via a text editor. Find and replace "86710505" prefix with your model'  (86710505 adresses Xiaomi Mi10T Pro)  
+- And double-click to run.  
+- If you don't change anything in the imei.vbs file, it will generate imei for Xiaomi Mi10T Pro directly.  
+  
+## Notes:  
+- You can find the prefix (first 8 digits of imei, ex:86710505) of your model from the QCN files or leaked IMEI's. You can find them on internet.  
+- These produced imei's are valid in terms of the calculations of the numbers that compose them with each other.  
+- This project has been prepared for educational purposes, abuse is the responsibility of the user.  
