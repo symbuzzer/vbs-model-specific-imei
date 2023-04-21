@@ -2,7 +2,7 @@
   
 ## How to use:
 - Download latest "imei.vbs" from [Releases](https://github.com/symbuzzer/vbs-model-specific-imei/releases)  
-- Edit it via a text editor. Find and replace "86710505" prefix with your model'  (86710505 adresses Xiaomi Mi10T Pro)  
+- Edit it via a text editor. Find and replace "86710505" prefix with your models'  (86710505 is for Xiaomi Mi10T Pro)  
 - And double-click to run.  
 - If you don't change anything in the imei.vbs file, it will generate imei for Xiaomi Mi10T Pro directly.  
   
