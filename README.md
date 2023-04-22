@@ -3,7 +3,7 @@
 ## How to use:
 - Download latest "imei.vbs" from [Releases](https://github.com/symbuzzer/vbs-model-specific-imei/releases)  
 - Edit it via a text editor. Find and replace "86710505" prefix with your models'  (86710505 is for Xiaomi Mi10T Pro)  
-- And double-click to run. Every run, it creates random IMEI number for same device.  
+- And double-click to run. Every generated IMEI numbers are for same device.  
 - If you don't change anything in the imei.vbs file, it will generate IMEI for Xiaomi Mi10T Pro directly.  
   
 ## Notes:  
